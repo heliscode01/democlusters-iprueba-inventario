@@ -1,0 +1,1 @@
+# democlusters-iprueba-inventario
